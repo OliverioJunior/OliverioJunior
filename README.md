@@ -11,7 +11,7 @@
 </div>
  <div>
   <h1>Tecnologias em desenvolvimento</h1>
-  <i class="fab fa-react"></i> 
+  <i height =" 30px" width = " 30px "class="fab fa-react"></i> 
  </div
  
  
