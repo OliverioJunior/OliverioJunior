@@ -24,7 +24,7 @@
  
  <div>
   <h1> Entre em contato </h1>
-  <a href = "https://www.linkedin.com/in/olivério-júnior" target="_blank">
+  <a href = "https://www.linkedin.com/in/olivério-júnior" target=_blank>
   <img height= 30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
  </div>
  
