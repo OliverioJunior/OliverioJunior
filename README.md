@@ -1,4 +1,4 @@
-### Olá, seja bem-vindo 👋
+# Olá, seja bem-vindo 👋
 <head>
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
  </head>
@@ -14,12 +14,22 @@
  ##
  
  
- <div border = "2px solid white">
+ <div>
   <h1>Tecnologias em desenvolvimento</h1>
   <img height=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img height=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img height=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
  </div>
+ 
+ ##
+ 
+ <div>
+  <h1> Entre em contato </h1>
+  <a href = "www.linkedin.com/in/olivério-júnior">
+  <img height= 30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+ </div>
+ 
+ 
  
  
