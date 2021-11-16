@@ -1,17 +1,25 @@
 ### Olá, seja bem-vindo 👋
 <head>
- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm"  crossorigin="anonymous">
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
  </head>
  
 <div display = "flex ">
 <a href ='https://github.com/OliverioJunior/OliverioJunior'>
 
  <img height= 180px src ='https://github-readme-stats.vercel.app/api?username=OliverioJunior&count_private=true&show_icons=true&show_icons=true&theme=radical'>
- <img height= 180px widht src ='https://github-readme-stats.vercel.app/api/top-langs/?username=OliverioJunior&repo=github-readme-stats&count_private=true&show_icons=true&show_icons=true&theme=radical&layout=compact'>
+ <img height= 180px  src ='https://github-readme-stats.vercel.app/api/top-langs/?username=OliverioJunior&repo=github-readme-stats&count_private=true&show_icons=true&show_icons=true&theme=radical&layout=compact'>
 </div>
- <div>
+ 
+ 
+ ##
+ 
+ 
+ <div border = "2px solid white">
   <h1>Tecnologias em desenvolvimento</h1>
-  <i height =" 30px" width = " 30px "class="fab fa-react"></i> 
- </div
+  <img height=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img height=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img height=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+ </div>
  
  
