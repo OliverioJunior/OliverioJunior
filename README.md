@@ -31,6 +31,8 @@
   <h1> Entre em contato </h1>
   <a href = "https://www.linkedin.com/in/olivério-júnior" target=_blank>
   <img height= 30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+  <a href = "https://api.whatsapp.com/send?phone=5579996824092" target=_blank>
+  <img height= 30px src="https://cdn-icons-png.flaticon.com/512/174/174879.png"/>
  </div>
  
  
