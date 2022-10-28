@@ -1,4 +1,5 @@
-# Olá, seja bem-vindo 👋
+# 🚀 Olá, seja bem-vindo ! 👋
+<img height= 20px src ='https://gpvc.arturio.dev/OliverioJunior'>
 <head>
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
  </head>
