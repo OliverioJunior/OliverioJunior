@@ -6,6 +6,7 @@
 <div display = "flex ">
  <img height= 180px src ='https://github-readme-stats.vercel.app/api?username=OliverioJunior&count_private=true&show_icons=true&show_icons=true&theme=radical'>
  <img height= 180px  src ='https://github-readme-stats.vercel.app/api/top-langs/?username=OliverioJunior&repo=github-readme-stats&count_private=true&show_icons=true&show_icons=true&theme=radical&layout=compact'>
+ <img height= 180px  src ='https://streak-stats.demolab.com?user=OliverioJunior&theme=radical&border_radius=5&locale=pt-br&date_format=M%20j%5B%2C%20Y%5D'>
 </div>
  
  
